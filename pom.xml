@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.88.24:8081/repository/vadlamudi-release/</url>
+	      <url>http://13.126.158.206:8081/repository/vadlamudi-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.88.24:8081/repository/vadlamudi-snapshot/</url>
+	      <url>http://13.126.158.206:8081/repository/project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
